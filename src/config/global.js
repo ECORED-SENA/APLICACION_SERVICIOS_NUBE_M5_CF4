@@ -220,7 +220,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura<br> Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: ' ',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura<br> Regional Santander',

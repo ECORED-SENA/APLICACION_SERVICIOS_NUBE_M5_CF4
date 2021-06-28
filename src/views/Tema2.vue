@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Tipos de servicios de computación en la Nube
+      h1 Tipos de servicios de computación en la nube
 
     figure.mb-5
       img(src="@/assets/curso/banner-tema2.svg", alt="Tipos de servicios de computación en la Nube")  

@@ -22,7 +22,7 @@
 
     .row.mb-4
       .col-lg-7.mb-2
-        p Este modelo es conocido como servicios de infraestructura en la nube y permite que  el usuario se encargue de la administración de los sistemas operativos, las aplicaciones, los datos, el middleware y todos los elementos que en este se despliega , por otra parte el proveedor del servicio se encarga del soporte de la infraestructura que da soporte al  sistema operativo montado por el usuario.
+        p Este modelo es conocido como servicios de infraestructura en la nube y permite que  el usuario se encargue de la administración de los sistemas operativos, las aplicaciones, los datos, el middleware y todos los elementos que en este se despliega, por otra parte el proveedor del servicio se encarga del soporte de la infraestructura que da soporte al  sistema operativo montado por el usuario.
       .col-lg-5.mb-2
         figure
           img(src='@/assets/curso/imagen-tema3-1.svg', alt='Imagen decorativa')   
