@@ -45,7 +45,7 @@
 
     .row.mb-4
       .col-lg-7.mb-2
-        p En esta categoría  el proveedor de servicios ofrece una plataforma como una solución integrada o servicio a través de Internet según la lista para el consumo por parte del usuario. El proveedor se encarga de gestionar  toda la infraestructura referente al hardware y al sistema operativo sobre el que se despliega la plataforma mientras el usuario solo es responsable de la administración y consumo de esta, logrando el desarrollo, ejecución y gestión de sus  sus propias aplicaciones. Por lo anterior, es el modelo ideal para desarrolladores de software porque solo necesita un entorno para el desarrollo y ejecución del código sin necesidad de preocuparse de otros procesos. A continuación se relaciona un ejemplo de PaaS es Firebase:
+        p En esta categoría el proveedor de servicios ofrece una plataforma como una solución integrada o servicio a través de Internet según la lista para el consumo por parte del usuario. El proveedor se encarga de gestionar toda la infraestructura referente al hardware y al sistema operativo sobre el que se despliega la plataforma mientras el usuario solo es responsable de la administración y consumo de esta, logrando el desarrollo, ejecución y gestión de sus propias aplicaciones. Por lo anterior, es el modelo ideal para desarrolladores de software porque solo necesita un entorno para el desarrollo y ejecución del código sin necesidad de preocuparse de otros procesos. A continuación, se relaciona un ejemplo de PaaS es Firebase:
       .col-lg-5.mb-2
         figure
           img(src='@/assets/curso/imagen-tema3-2.svg', alt='Imagen decorativa')   
@@ -92,17 +92,19 @@
     .row.mb-4
       .col-lg-7.mb-2
         p La selección de los modelos de servicio depende finalmente de las necesidades de la empresa o de los profesionales encargados de la toma de decisiones respecto al proceso de aprovisionamiento de la infraestructura dentro de la organización. Sin embargo, se debe tener en cuenta que tanto los modelos PaaS y SaaS se montan sobre una IaaS.
-        p Según lo compartido en los puntos anteriores, la principal diferencia entre un modelo y otro viene determinada por la responsabilidad de los usuarios y proveedores sobre el proceso de mantenimiento y soporte, en segundo lugar están los aspectos de seguridad. En un modelo IaaS el usuario es responsable de la seguridad de las aplicaciones instaladas mientras que en modelos SaaS y PaaS la seguridad recae sobre el proveedor del servicio.
+        p Según lo compartido en los puntos anteriores, la principal diferencia entre un modelo y otro viene determinada por la responsabilidad de los usuarios y proveedores sobre el proceso de mantenimiento y soporte, en segundo lugar, están los aspectos de seguridad. En un modelo IaaS el usuario es responsable de la seguridad de las aplicaciones instaladas mientras que en modelos SaaS y PaaS la seguridad recae sobre el proveedor del servicio.
       .col-lg-5.mb-2
         figure
           img(src='@/assets/curso/imagen-tema3-4.svg', alt='Imagen decorativa') 
 
-    p.mb-4 En la tabla 1 se comparte  un ejemplo de los posibles tipos de roles involucrados con cada una de las modelos y algunos ejemplos de aplicaciones. 
+    p.mb-4 A continuación, se comparte un ejemplo de los posibles tipos de roles involucrados con cada uno de los modelos y algunos ejemplos de aplicaciones. 
 
     .row.justify-content-center
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Tabla 1. Modelos de servicios de computación en la nube
+          h5.tabla 
+          strong Tabla 1. 
+          | Modelos de servicios de computación en la nube
         .tabla-b.color-naranja.mb-5
           table
             caption Fuente: SENA, 2021

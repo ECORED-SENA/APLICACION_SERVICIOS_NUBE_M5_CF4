@@ -11,7 +11,7 @@
     figure.mb-5
       img(src="@/assets/curso/banner-tema4.svg", alt="Tipos de nube")  
 
-    p.mb-4 Dependiendo de quién es el propietario y el método de implementación de la infraestructura a ser utilizada, existen tres grandes tipos de nube, las cuales que se detallan a continuación:
+    p.mb-4 Dependiendo de quién es el propietario y el método de implementación de la infraestructura a ser utilizada, existen tres grandes tipos de nube, las cuales se detallan a continuación:
 
     .row.justify-content-center
       .col-lg-8
@@ -31,7 +31,7 @@
 
           .tarjeta.color-acento-botones.p-3(x="71%" y="81%")
             .h5.mb-2 Nube pública
-            p Una nube es pública cuando todo el conjunto de recursos de infraestructura de TI ajena al usuario final se despliega para el consumo como servicios a través de internet , independientemente de si los recursos son asignados o no a los usuarios de forma privada.  Algunos proveedores de este tipo de nubes son: 
+            p Una nube es pública cuando todo el conjunto de recursos de infraestructura de TI ajena al usuario final se despliega para el consumo como servicios a través de internet, independientemente de si los recursos son asignados o no a los usuarios de forma privada.  Algunos proveedores de este tipo de nubes son: 
             p Amazon Web Services (AWS), Google Cloud, IBM Cloud y Microsoft Azure.
 
           .tarjeta.color-acento-botones.p-3(x="50%" y="47%")

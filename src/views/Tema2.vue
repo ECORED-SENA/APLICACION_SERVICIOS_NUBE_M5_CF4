@@ -27,11 +27,11 @@
 
           .tarjeta.color-acento-botones.p-3(x="47%" y="30%")
             .h5.mb-2 Servicios de cómputo
-            p Este  tipo de servicios da  soporte a la capa de procesamiento de las aplicaciones, es decir, el usuario determinará entre características como :  cantidades de núcleos de procesamiento y memoria requerida para el correcto  funcionamiento  de las aplicaciones y el proveedor del servicio se encarga de provisionar y mantenerlos disponibles para el usuario cuando se requiera.
+            p Este tipo de servicios da soporte a la capa de procesamiento de las aplicaciones, es decir, el usuario determinará entre características como: cantidades de núcleos de procesamiento y memoria requerida para el correcto funcionamiento de las aplicaciones y el proveedor del servicio se encarga de provisionar y mantenerlos disponibles para el usuario cuando se requiera.
 
           .tarjeta.color-acento-botones.p-3(x="15%" y="75%")
             .h5.mb-2 Servicios de almacenamiento
-            p Este tipo de servicios buscan garantizar la disponibilidad de la información en cualquier momento, va más  allá de brindar grandes cantidades de almacenamiento sino que además se establecen mecanismo como por ejemplo la replicación en diferentes ubicaciones geográficas de forma que se pueda trabajar y acceder a los datos incluso en escenarios complejos dando gran tolerancia a fallos.
+            p Este tipo de servicios buscan garantizar la disponibilidad de la información en cualquier momento, va más allá de brindar grandes cantidades de almacenamiento, sino que además se establecen mecanismo como por ejemplo la replicación en diferentes ubicaciones geográficas de forma que se pueda trabajar y acceder a los datos incluso en escenarios complejos dando gran tolerancia a fallos.
 
           .tarjeta.color-acento-botones.p-3(x="88%" y="45%")
             .h5.mb-2 Servicios de red
