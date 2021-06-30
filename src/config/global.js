@@ -220,12 +220,6 @@ export default {
           'Centro Industrial del Diseño y la Manufactura<br> Regional Santander',
       },
       {
-        nombre: ' ',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura<br> Regional Santander',
-      },
-      {
         nombre: 'María Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
